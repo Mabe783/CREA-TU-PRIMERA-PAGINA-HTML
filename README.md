@@ -1,2 +1,5 @@
 # CREA-TU-PRIMERA-PAGINA-HTML
-creacion de primera pagina en html
+
+Este proyecto es una práctica de introducción al desarrollo web, donde creé mi primera página utilizando únicamente HTML. La página se titula "El Mundo Mágico de Belén" y fue pensada como un espacio personal, divertido y creativo para compartir un poco sobre mí. Incluye un título principal y un subtítulo llamativo, un párrafo de bienvenida con estilo relajado y simpático, una imagen que representa el espíritu de la página, y un enlace directo a mi canal de YouTube para que los visitantes puedan conocerme mejor. También agregué una lista ordenada con mis películas favoritas y una lista desordenada con canciones que me encantan, mostrando así mis gustos de forma clara y ordenada. El objetivo de esta página fue aprender a usar las etiquetas básicas de HTML, mientras construía un sitio que reflejara mi personalidad. Para visualizarla, simplemente se debe abrir el archivo .html en cualquier navegador web moderno. Es una forma sencilla, pero efectiva, de aplicar conocimientos básicos de programación web mientras se crea algo auténtico. Este proyecto marca el inicio de mi camino en el mundo del desarrollo web, y es solo el primer paso para seguir aprendiendo y creando más páginas con estilo propio. 
+
+Att: Belén Acosta 
